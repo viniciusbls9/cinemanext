@@ -4,7 +4,7 @@ Consumindo API do site [TMDB](https://www.themoviedb.org/?language=pt-BR) para a
 
 ## Funcionalidades
 
-[x] Listagem dos filmes em destaque
-[x] Campo de busca de filme especifico
-[x] Listagem de filmes de acordo com a busca
-[x] Informações do site especifico
+- Listagem dos filmes em destaque
+- Campo de busca de filme especifico
+- Listagem de filmes de acordo com a busca
+- Informações do site especifico
